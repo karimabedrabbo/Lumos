@@ -3,36 +3,36 @@ Take a picture of your retinas for eye-disease and cancer screening with our mob
 
 # iPhone lens
 
-![Alt text](./pitch_deck/Slide5.png?raw=true "Lumos Lens")
+![Alt text](./pitch_deck/Slide5.png "Lumos Lens")
 
-![Alt text](./illustrations/retinaSample2cropped.png?raw=true "Lumos Lens")
+![Alt text](./illustrations/retinaSample2cropped.png "Lumos Lens Image")
 ### A image of the retina of someone on our dorm floor using our lens.
 
 
 # Machine Learning
 
-![Alt text](./illustrations/ganexplanation1.png?raw=true "GAN Explanation")
+![Alt text](./illustrations/ganexplanation1.png "GAN Explanation")
 
-![Alt text](./illustrations/maskexplanation.png?raw=true "Masks Explanation")
+![Alt text](./illustrations/maskexplanation.png "Masks Explanation")
 
 # Mobile App + Risk Statistics
 
-![Alt text](./illustrations/lumosSample1.png?raw=true "Mobile App")
+![Alt text](./illustrations/appSample1.png "Mobile App")
 
-![Alt text](./illustrations/u-net-architecture.png?raw=true "Mobile App")
+![Alt text](./illustrations/u-net-architecture.png "Classification Model Architecture")
 
 The deep-learning model we used to assess risk and statistics.
 
 
 # The Team
 
-![Alt text](./pitch_deck/slide9.png?raw=true "The Team")
+![Alt text](./pitch_deck/slide9.png "The Team")
 
 # Why it matters
 
-![Alt text](./pitch_deck/slide3.png?raw=true "The Team")
+![Alt text](./pitch_deck/slide3.png "The problem")
 
-![Alt text](./pitch_deck/slide4.png?raw=true "The Team")
+![Alt text](./pitch_deck/slide4.png "The solution")
 
 
-![Alt text](./pitch_deck/slide8.png?raw=true "The Team")
+![Alt text](./pitch_deck/slide8.png "The implications")
