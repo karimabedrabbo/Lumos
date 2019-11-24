@@ -26,13 +26,13 @@ The deep-learning model we used to assess risk and statistics.
 
 # The Team
 
-![Alt text](./pitch_deck/slide9.png "The Team")
+![Alt text](./pitchdeck/Slide9.png "The Team")
 
 # Why it matters
 
-![Alt text](./pitch_deck/slide3.png "The problem")
+![Alt text](./pitchdeck/Slide3.png "The problem")
 
-![Alt text](./pitch_deck/slide4.png "The solution")
+![Alt text](./pitchdeck/Slide4.png "The solution")
 
 
-![Alt text](./pitch_deck/slide8.png "The implications")
+![Alt text](./pitchdeck/Slide8.png "The implications")
