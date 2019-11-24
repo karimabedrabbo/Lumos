@@ -3,7 +3,7 @@ Take a picture of your retinas for eye-disease and cancer screening with our mob
 
 # iPhone lens
 
-![Alt text](./pitch_deck/Slide5.png "Lumos Lens")
+![Alt text](./pitchdeck/Slide5.png "Lumos Lens")
 
 ![Alt text](./illustrations/retinaSample2cropped.png "Lumos Lens Image")
 ### A image of the retina of someone on our dorm floor using our lens.
